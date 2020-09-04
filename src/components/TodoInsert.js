@@ -22,7 +22,7 @@ const TodoInsert = ({onInsert}) => {
             e.preventDefault();
         },
         [onInsert, value],
-        console.log([onInsert, value]),
+        // console.log([onInsert, value]),
     );
 
 
